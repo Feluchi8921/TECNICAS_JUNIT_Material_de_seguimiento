@@ -15,4 +15,5 @@ import org.junit.runners.Suite;
 
 //Lista de clases de prueba
 public class TestSuite {
+    //Clase vacia
 }
